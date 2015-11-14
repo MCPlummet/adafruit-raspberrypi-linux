@@ -1,3 +1,5 @@
+This kernel is modified to provide some gamepad/joystick related issues as described here: http://blog.petrockblock.com/forums/topic/autofire-on-the-axis/
+
         Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
